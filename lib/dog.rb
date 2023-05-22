@@ -16,3 +16,5 @@ def breed
 end
 
 end
+
+eric = Dog.new('eric')
